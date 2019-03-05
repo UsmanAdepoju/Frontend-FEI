@@ -9,3 +9,4 @@ You will be required to do the following:
 - Save users liked news on the browser 
 - Bonus: Make app work while offline (add service worker)
 
+# EloquentJS
